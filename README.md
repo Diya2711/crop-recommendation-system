@@ -17,4 +17,4 @@ Machine Learning based crop recommendation system using Python and Scikit-learn.
 
   ## Project Screenshot
 
-![Project Screenshot](screenshots/demo.png)
+![Project Screenshot](1.png)
