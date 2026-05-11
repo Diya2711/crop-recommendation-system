@@ -14,3 +14,7 @@ Machine Learning based crop recommendation system using Python and Scikit-learn.
 - Soil analysis
 - Data preprocessing
 - ML model training
+
+  ## Project Screenshot
+
+![Project Screenshot](screenshots/demo.png)
