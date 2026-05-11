@@ -7,7 +7,7 @@ Machine Learning based crop recommendation system using Python and Scikit-learn.
 - Pandas
 - NumPy
 - Scikit-learn
-- Jupyter Notebook
+- Jupyter Notebook/Google Colab
 
 ## Features
 - Crop prediction
